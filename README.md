@@ -40,7 +40,6 @@ DynastyTradeHQ helps dynasty fantasy football managers evaluate trades using pla
 | Resource | URL |
 |----------|-----|
 | 🏈 Trade Calculator | https://dynastytradehq.com |
-| 📊 Trade Value Chart | https://dynastytradehq.com/dynasty-trade-value-chart |
 | 👤 Player Values | https://dynastytradehq.com/player-values |
 | 📋 Player Pages | https://dynastytradehq.com/players |
 | 📰 Dynasty Blog | https://dynastytradehq.com/blog |
