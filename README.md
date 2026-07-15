@@ -2,7 +2,7 @@
 
 Free AI-powered Dynasty Fantasy Football Trade Calculator, Trade Value Charts, Player Values, and Dynasty Rankings.
 
-DynastyTradeHQ helps dynasty fantasy football managers evaluate trades using player values, rookie draft pick values, and AI-powered trade analysis. Compare trades instantly for both **1QB** and **Superflex** leagues with no signup required.
+DynastyTradeHQ helps dynasty fantasy football managers evaluate trades using player values, rookie draft pick values, and AI-powered trade analysis. Compare trades instantly for both **1QB** and **Superflex** dynasty leagues—completely free with no signup required.
 
 ## 🌐 Website
 
@@ -13,13 +13,13 @@ DynastyTradeHQ helps dynasty fantasy football managers evaluate trades using pla
 ## ✨ Features
 
 - 🤖 AI-powered Trade Analysis
+- 🏈 Dynasty Fantasy Football Trade Calculator
 - 📊 Dynasty Trade Value Chart
 - 👤 Individual Player Value Pages
-- 🏈 Dynasty Fantasy Football Trade Calculator
 - 🎯 Rookie Draft Pick Values (2026–2028)
 - ⚡ Supports 1QB & Superflex Leagues
-- 🆓 Completely Free – No Signup Required
-- 📚 Dynasty Strategy & Fantasy Football Blog
+- 🆓 Free to Use – No Signup Required
+- 📚 Dynasty Fantasy Football Strategy Blog
 
 ---
 
@@ -27,32 +27,33 @@ DynastyTradeHQ helps dynasty fantasy football managers evaluate trades using pla
 
 ### Homepage
 
-![DynastyTradeHQ Homepage](images/dynasty-trade-calculator-homepage.png)
+![DynastyTradeHQ Homepage](./images/dynasty-trade-calculator-homepage.png)
 
 ### AI Trade Calculator
 
-![AI Trade Calculator](images/ai-dynasty-trade-calculator.png)
+![AI Trade Calculator](./images/ai-dynasty-trade-calculator.png)
 
 ---
 
 ## 🔗 Resources
 
-| Resource | Link |
-|----------|------|
-| 🏈 Trade Calculator | https://dynastytradehq.com/ |
+| Resource | URL |
+|----------|-----|
+| 🏈 Trade Calculator | https://dynastytradehq.com |
+| 📊 Trade Value Chart | https://dynastytradehq.com/dynasty-trade-value-chart |
 | 👤 Player Values | https://dynastytradehq.com/player-values |
 | 📋 Player Pages | https://dynastytradehq.com/players |
-| 📰 Blog | https://dynastytradehq.com/blog |
+| 📰 Dynasty Blog | https://dynastytradehq.com/blog |
 
 ---
 
 ## 🚀 Why DynastyTradeHQ?
 
-DynastyTradeHQ combines player values with AI-generated trade analysis to help fantasy football managers make smarter dynasty trade decisions. Whether you're rebuilding or competing for a championship, our tools provide fast, data-driven insights to evaluate every trade.
+DynastyTradeHQ combines expert player values with AI-powered trade analysis to help dynasty fantasy football managers make smarter trade decisions. Whether you're rebuilding your roster or competing for a championship, our tools provide fast, data-driven insights to evaluate every trade with confidence.
 
 ---
 
-## 🛠️ Technology
+## 🛠️ Built With
 
 - Next.js
 - React
@@ -64,7 +65,7 @@ DynastyTradeHQ combines player values with AI-generated trade analysis to help f
 
 ## 📢 Disclaimer
 
-This repository contains **public documentation only**. The production source code for DynastyTradeHQ is private.
+This repository contains **public documentation only**. The production application and source code for DynastyTradeHQ are private.
 
 ---
 
