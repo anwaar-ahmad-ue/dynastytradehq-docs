@@ -11,6 +11,7 @@ https://dynastytradehq.com
 - AI-powered Trade Calculator
 - Dynasty Trade Value Chart
 - Player Value Database
+- Individual Player Pages
 - Rookie Pick Values
 - Superflex & 1QB Support
 - Dynasty Fantasy Football Blog
@@ -18,13 +19,13 @@ https://dynastytradehq.com
 ## Resources
 
 - Trade Calculator: https://dynastytradehq.com/
-- Dynasty Trade Value Chart: https://dynastytradehq.com/dynasty-trade-value-chart
 - Player Values: https://dynastytradehq.com/player-values
+- Individual Player Pages: https://dynastytradehq.com/players
 - Blog: https://dynastytradehq.com/blog
 
 ## About
 
-DynastyTradeHQ provides free dynasty fantasy football tools to help fantasy managers make smarter trade decisions.
+DynastyTradeHQ provides free dynasty fantasy football tools to help dynasty managers make smarter trade decisions using AI-powered trade analysis, player values, and dynasty rankings.
 
 ## License
 
